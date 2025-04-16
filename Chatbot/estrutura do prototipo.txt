@@ -1,0 +1,8 @@
+chatbot-tcc/
+├── backend/
+│   ├── index.js        ← código do backend em Node.js
+│   └── package.json    ← dependências do projeto
+├── public/
+│   ├── chat.html       ← interface de chat
+│   ├── style.css       ← estilo da interface
+│   └── script.js       ← script para interação com o front-end
