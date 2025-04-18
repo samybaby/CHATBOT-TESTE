@@ -59,8 +59,11 @@ Abra o arquivo public/chat.html no seu navegador para acessar a interface do cha
 Contribuição:
 
 Se você quiser contribuir para o desenvolvimento deste projeto, fique à vontade para abrir uma issue ou enviar um pull request.
+
 Faça o fork deste repositório.
 Crie uma nova branch (git checkout -b feature-nova).
+
 Faça as mudanças desejadas e commit (git commit -am 'Adicionando nova funcionalidade').
+
 Envie para a branch principal (git push origin feature-nova).
 Abra um pull request.
