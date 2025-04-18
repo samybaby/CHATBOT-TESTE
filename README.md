@@ -1,7 +1,7 @@
 Chatbot para Atendimento ao Cliente
 Este projeto é um chatbot simples desenvolvido como parte de um trabalho de conclusão de curso (TCC). O objetivo é criar uma aplicação de atendimento ao cliente automatizado utilizando Node.js para o backend e HTML/CSS/JavaScript para a interface frontend.
 
-Funcionalidades
+Funcionalidades:
 O chatbot é capaz de responder a perguntas simples sobre horários de funcionamento e informações sobre a entrega de produtos.
 A aplicação utiliza um servidor Node.js com o framework Express para lidar com as requisições do cliente.
 O frontend é uma interface web simples, com um campo de chat onde o usuário pode digitar suas perguntas e obter respostas automáticas.
@@ -16,10 +16,10 @@ HTML
 CSS
 JavaScript
 
-Pré-requisitos
+Pré-requisitos:
 Antes de rodar o projeto, é necessário ter o Node.js instalado em seu computador.
 
-Como Rodar o Projeto
+Como Rodar o Projeto:
 1. Clonando o Repositório
 Primeiro, clone o repositório para o seu computador:
 bash
@@ -47,7 +47,7 @@ O servidor estará rodando em http://localhost:3000.
 5. Acessando a Interface do Chatbot
 Abra o arquivo public/chat.html no seu navegador para acessar a interface do chatbot.
 
-Contribuição
+Contribuição:
 Se você quiser contribuir para o desenvolvimento deste projeto, fique à vontade para abrir uma issue ou enviar um pull request.
 Faça o fork deste repositório.
 Crie uma nova branch (git checkout -b feature-nova).
