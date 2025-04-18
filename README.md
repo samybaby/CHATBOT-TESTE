@@ -20,7 +20,9 @@ Pré-requisitos:
 Antes de rodar o projeto, é necessário ter o Node.js instalado em seu computador.
 
 Como Rodar o Projeto:
+
 1. Clonando o Repositório
+
 Primeiro, clone o repositório para o seu computador:
 bash
 Copiar
@@ -29,6 +31,7 @@ git clone https://github.com/SEU_USUARIO/chatbot-tcc.git
 cd chatbot-tcc
 
 3. Instalando Dependências
+
 Navegue até a pasta backend/ e instale as dependências necessárias com o npm:
 bash
 Copiar
@@ -37,6 +40,7 @@ cd backend
 npm install
 
 4. Rodando o Servidor
+
 Depois de instalar as dependências, inicie o servidor:
 bash
 Copiar
